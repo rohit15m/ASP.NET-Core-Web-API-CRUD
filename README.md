@@ -12,7 +12,7 @@ Currently, all CRUD operations are tested and working through **Swagger UI**.
 ## ⚙️ Tech Stack
 - **.NET  / ASP.NET Core Web API**
 - **Entity Framework Core**
-- **SQL Server**
+- **MySql**
 - **Swagger (OpenAPI)**
 ---
 
